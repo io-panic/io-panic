@@ -14,4 +14,6 @@ Just to build things. Trying to do some clean stuff (or not?).
 I TRY to follow CODE CLEAN (c) Uncle Bob and to use a pattern only when it really simplify the solution.
 I learn. Sometimes.
 
+Tm90ZTogSSdtIG5vdCByZWFsbHkgYSBOaW5qYQ==
+
 <!--- As a reminder to put some comments, eventually --->
