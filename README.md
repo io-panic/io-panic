@@ -1,3 +1,6 @@
+
+<!--- As a reminder to put some comments, eventually --->
+
 # Hey there, I'm io-panic 👋
 
 Welcome to my GitHub — where side projects, experiments, and the occasional “it worked on my machine” live in harmony.
@@ -17,5 +20,3 @@ stack:
   frontend: [Vue.js]
   backend: [MongoDB, PostgreSQL]
   interests: [Offensive Security, Network Administration, Making firewalls cry]
-
-<!--- As a reminder to put some comments, eventually --->
