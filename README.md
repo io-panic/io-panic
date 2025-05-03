@@ -1,15 +1,21 @@
-# io-panic
+# Hey there, I'm io-panic 👋
 
-I'm io-panic, because any input and output make me panic, at least from a security point of view.
-There's too many things to verify and only insecurity subsist.
+Welcome to my GitHub — where side projects, experiments, and the occasional “it worked on my machine” live in harmony.
 
-# crashdump
+## About Me
 
-Because at some point there will be a failure, sometimes I call myself crashdump.
-My head is not any different from a software and sometimes it just crashes [yes, sometimes I sleep].
+- 🔧 Full-time dev, part-time keyboard philosopher  
+- 🧠 Forever learning — mostly through breaking things and reading logs  
+- 😴 I don't code at night — sleep is important and bugs multiply after midnight  
+- ☕ Fueled by coffee, curiosity, and command-line chaos  
 
-----
+## What I’m Into
 
-Tm90ZTogSSdtIG5vdCByZWFsbHkgYSBOaW5qYQ==
+```yaml
+stack:
+  languages: [Java, Python]
+  frontend: [Vue.js]
+  backend: [MongoDB, PostgreSQL]
+  interests: [Offensive Security, Network Administration, Making firewalls cry]
 
 <!--- As a reminder to put some comments, eventually --->
